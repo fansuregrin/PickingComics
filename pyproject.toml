@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "crawl_comics"
+version = "0.1.0"
+description = "download imgs from dmzj and genarate pdf"
+authors = ["fansuregrin <1134366185@qq.com>"]
+license = "any"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.25.0"
+lxml = "^4.6.2"
+fpdf = "^1.7.2"
+Pillow = "^8.0.1"
+selenium = "^3.141.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
