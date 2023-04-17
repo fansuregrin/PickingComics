@@ -1,4 +1,4 @@
-# PickComics
+# PickingComics
 Picking comics from a website.
 
 ## Introduction
