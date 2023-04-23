@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "crawl_comics"
+name = "picking_comics"
 version = "0.1.0"
 description = "download imgs from dmzj and genarate pdf"
-authors = ["fansuregrin <1134366185@qq.com>"]
+authors = ["fansuregrin <fansuregrin@outlook.com>"]
 license = "any"
 
 [tool.poetry.dependencies]
